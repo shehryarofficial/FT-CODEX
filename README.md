@@ -14,12 +14,11 @@
 ![Cost](https://img.shields.io/badge/Cost-100%25%20Free-brightgreen)
 
 [![Website](https://img.shields.io/badge/Website-ft--shehryar.pages.dev-blueviolet?logo=googlechrome&logoColor=white)](https://ft-shehryar.pages.dev)
-[![Project Page](https://img.shields.io/badge/Project-ft--team.pages.dev-cyan?logo=googlechrome&logoColor=white)](https://ft-team.pages.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-HACKER--9M-black?logo=github&logoColor=white)](https://github.com/HACKER-9M)
+[![GitHub](https://img.shields.io/badge/GitHub-shehryarofficial-black?logo=github&logoColor=white)](https://github.com/shehryarofficial)
 
 > **A simple, free AI chatbot built for Termux. No API keys, no setup headaches, no bills. Just run and chat.**
 
-**Made by [Shehryar Official](https://ft-shehryar.pages.dev) · FT Team**
+**Made By [Shehryar Official](https://ft-shehryar.pages.dev) · FT TEAM**
 
 </div>
 
